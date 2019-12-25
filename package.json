@@ -1,6 +1,6 @@
 {
   "name": "getintodevops-hellonode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hello World HTTP server",
   "main": "main.js",
   "scripts": {
@@ -20,4 +20,3 @@
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
-
